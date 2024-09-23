@@ -1,2 +1,2 @@
 ## How to see the portfolio
-Download atau clone this repository including css, js, and assets.
+Download this repository including css, js, and assets or the ZIP file to see the portfolio.
